@@ -5,7 +5,6 @@
 
 variables:
 - name: inputOC
-  value: initialValue
 
 pool:
   vmImage: ubuntu-latest
